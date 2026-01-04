@@ -314,5 +314,3 @@ With coverage:
 
 python -m pytest -q --cov=app --cov-report=term-missing --cov-fail-under=80
 
-
-
